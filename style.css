@@ -1,0 +1,22 @@
+h1 {
+    color: brown;
+}
+*{
+    border: solid;
+}
+.header{
+background-image: url("https://image.architonic.com/img_pro2-4/116/6568/carbon-fiber-anthracite-car-9001-b.jpg");
+display:flex;
+justify-content: space-between;
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
